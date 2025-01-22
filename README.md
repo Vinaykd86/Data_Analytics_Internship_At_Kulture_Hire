@@ -25,11 +25,15 @@ Tasks included handling missing data, correcting errors, and standardizing forma
 
 Ensured high-quality data for accurate analysis.
 
+Cleaned File-"C:\Users\vinay\OneDrive\Genz_analysis_Standardized .csv"
+
 📈 Milestone 3: Pivot Table Creation
 
 Designed 21 pivot tables in Excel to answer 21 business questions.
 
 Extracted meaningful patterns, trends, and relationships.
+
+Pivot Table-"C:\Users\vinay\OneDrive\Pivot Analysis.xlsx"
 
 🗄️ Milestone 4: MySQL Table Creation
 
