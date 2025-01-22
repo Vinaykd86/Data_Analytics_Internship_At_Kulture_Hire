@@ -42,7 +42,7 @@ The goal of this project is to:
    
      ![Image](https://github.com/user-attachments/assets/cfcd1064-82b2-4670-be48-2de4159db585)
      
-  2. **Carrer Dashboard**: Analysis of learning preferences and trends.
+  2. **Career Dashboard**: Analysis of job preferences and other factors.
      
      ![Image](https://github.com/user-attachments/assets/50a23bbb-c6d5-4126-aeaf-ecc24a22d047)
      
