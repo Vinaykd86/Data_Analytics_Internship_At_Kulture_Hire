@@ -39,13 +39,13 @@ The goal of this project is to:
 ### 🎯 Milestone 6: Specialized Dashboards  
 - 📊Designed three focused dashboards for deeper analysis:  
   1. **Manager Dashboard**: Insights into managerial aspects of GenZ aspirations.
-  2. 
+   
      ![Image](https://github.com/user-attachments/assets/cfcd1064-82b2-4670-be48-2de4159db585)
      
-  4. **Carrer Dashboard**: Analysis of learning preferences and trends.
+  2. **Carrer Dashboard**: Analysis of learning preferences and trends.
      
      ![Image](https://github.com/user-attachments/assets/50a23bbb-c6d5-4126-aeaf-ecc24a22d047)
      
-  5. **Mission Dashboard**: Visualizations related to mission-oriented aspirations.
+  3. **Mission Dashboard**: Visualizations related to mission-oriented aspirations.
    
      ![Image](https://github.com/user-attachments/assets/b379abf9-bb2a-4e4b-a24b-56143aee5fb4)
